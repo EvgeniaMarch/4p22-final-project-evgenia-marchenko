@@ -1,0 +1,56 @@
+.basket{
+    display: flex;
+    flex-direction: column;
+}
+.basket__price {
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.basket__price-value {
+    color: #01996D;
+    font-weight: bold;
+}
+
+.basket__price-value::before {
+    content: '$'
+}
+
+.basket__button {
+    outline: none;
+    border: none;
+    background: #01996D;
+    color: white;
+    font-size: 100%;
+    border-radius: 0;
+    height: 40px;
+    width: 15%;
+    align-self: center;
+    margin-top: 10px;
+    margin-bottom: 5%;
+}
+
+.basket__button:hover {
+    background: rgba(10, 173, 127, 0.7);
+    transition: .2s background-color;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1024px) and (min-width: 845px) {
+    .basket__button {
+        width: 18%;
+        
+    }
+}
+
+@media screen and (max-width: 844px) and (min-width: 640px) {
+    .basket__button {
+        width: 20%;
+    }
+}
+
+@media screen and (max-width: 639px) {
+    .basket__button {
+        width: 40%;
+    }
+}

@@ -1,0 +1,40 @@
+.form-pannel {
+    padding-left: 20%;
+    padding-top: 20px
+}
+
+.form-pannel__search-div {
+    position: relative;
+}
+
+.form-pannel__search-label{
+     margin-right: 10px;
+}
+
+.form-pannel__search-label::before {
+    position: absolute;
+    content: '';
+    background-image: url('../../img/Search.png');
+    height: 65px;
+    width: 65px;
+    opacity: 0.3;
+    background-size: 100% 100%;
+    left: -7px;
+    top: -20px;
+}
+
+.form-pannel__search-input {
+    border: 1px solid #01996D;
+    outline: none;
+    height: 25px;
+}
+
+@media screen and (max-width: 844px) {
+    .form-pannel {
+        padding-left: 10%;
+    }
+    .form-pannel__search-label{
+        display: none;
+    }
+    
+}
