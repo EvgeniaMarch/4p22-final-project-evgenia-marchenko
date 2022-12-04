@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/4p22-final-project-evgenia-marchenko/static/css/main.073c9b0a.css",
-    "main.js": "/4p22-final-project-evgenia-marchenko/static/js/main.cdcce187.js",
+    "main.css": "/4p22-final-project-evgenia-marchenko/static/css/main.6f0ac3f7.css",
+    "main.js": "/4p22-final-project-evgenia-marchenko/static/js/main.ccd8a8f2.js",
     "static/js/787.aa3429f4.chunk.js": "/4p22-final-project-evgenia-marchenko/static/js/787.aa3429f4.chunk.js",
-    "static/media/logo.svg": "/4p22-final-project-evgenia-marchenko/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/4p22-final-project-evgenia-marchenko/index.html",
-    "main.073c9b0a.css.map": "/4p22-final-project-evgenia-marchenko/static/css/main.073c9b0a.css.map",
-    "main.cdcce187.js.map": "/4p22-final-project-evgenia-marchenko/static/js/main.cdcce187.js.map",
+    "main.6f0ac3f7.css.map": "/4p22-final-project-evgenia-marchenko/static/css/main.6f0ac3f7.css.map",
+    "main.ccd8a8f2.js.map": "/4p22-final-project-evgenia-marchenko/static/js/main.ccd8a8f2.js.map",
     "787.aa3429f4.chunk.js.map": "/4p22-final-project-evgenia-marchenko/static/js/787.aa3429f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cdcce187.js"
+    "static/css/main.6f0ac3f7.css",
+    "static/js/main.ccd8a8f2.js"
   ]
 }
